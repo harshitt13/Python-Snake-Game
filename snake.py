@@ -1,4 +1,4 @@
-4import pygame # type: ignore
+import pygame # type: ignore
 import time
 import random
 import sys
